@@ -1,0 +1,2 @@
+# ChimeraPyAIInstituteEvalConfigs
+ChimeraPyOrchestrator configs for AIInstitute Evaluation Meeting
