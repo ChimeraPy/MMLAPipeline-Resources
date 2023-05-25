@@ -30,8 +30,8 @@ https://github.com/oele-isis-vanderbilt/MMLAPipeline-Resources/assets/11476842/4
 
 
 ## Useful Links
-- [`ChimeraPy`](https://github.com/oele-isis-vanderbilt/ChimeraPy): Distributed computing framework for Multimodal data written in Python
+- [`ChimeraPy`](https://github.com/oele-isis-vanderbilt/ChimeraPy/tree/EngageAIVisit2023): Distributed computing framework for Multimodal data written in Python
 
-- [`ChimeraPyOrchestrator`](https://github.com/oele-isis-vanderbilt/ChimeraPyOrchestrator): Reusable Nodes and Orchestration Scheme/ Dashboard Application for ChimeraPy with JSON configuration
+- [`ChimeraPyOrchestrator`](https://github.com/oele-isis-vanderbilt/ChimeraPyOrchestrator/tree/EngageAIVisit2023): Reusable Nodes and Orchestration Scheme/ Dashboard Application for ChimeraPy with JSON configuration
 
-- [`MMLAPIPE`](https://github.com/oele-isis-vanderbilt/MMLAPIPE): Repository of shareable `ChimeraPy` pipelines
+- [`MMLAPIPE`](https://github.com/oele-isis-vanderbilt/MMLAPIPE/tree/EngageAIVisit2023): Repository of shareable `ChimeraPy` pipelines
