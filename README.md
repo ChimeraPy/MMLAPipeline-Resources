@@ -1,5 +1,5 @@
 # MMLAPipeline-Resources
-`ChimeraPyOrchestrator` configs, posters and other resources related to the `ChimeraPy` ecosystem for EngageAI Institute site visit 2023.
+Demos, posters and other resources related to the [`ChimeraPy`](https://github.com/oele-isis-vanderbilt/ChimeraPy.git) MMLA Pipeline ecosystem for EngageAI Institute site visit 2023.
 
 ## Posters
 1. [ChimeraPy and the MMLAPipeline](./posters/ChimeraPyPoster.pdf)
