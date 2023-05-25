@@ -12,7 +12,11 @@ The architecture is as follows:
  
  
 
-https://github.com/oele-isis-vanderbilt/MMLAPipeline-Resources/assets/11476842/d9c4ff67-d4a3-495e-b141-59c5b2e41d00
+
+
+https://github.com/oele-isis-vanderbilt/MMLAPipeline-Resources/assets/11476842/39bd9175-3a71-49b9-9f27-6c0b66bad9a5
+
+
 
 
 
@@ -21,14 +25,22 @@ https://github.com/oele-isis-vanderbilt/MMLAPipeline-Resources/assets/11476842/d
 ![gaze-detection.png](./images/gaze-detection.png)
 
 
-https://github.com/oele-isis-vanderbilt/MMLAPipeline-Resources/assets/11476842/416fe124-72c7-4ddb-bb5e-cd5052b488c0
+
+
+https://github.com/oele-isis-vanderbilt/MMLAPipeline-Resources/assets/11476842/1fdfac0d-608b-46bd-bbd1-20fd684ee844
+
+
 
 
 
 3. [multi-video-tracking.json](./demos/multi-video-tracking.json): [`ChimeraPyOrchestrator`](https://github.com/oele-isis-vanderbilt/ChimeraPyOrchestrator.git) configuration for tracking multiple objects in multiple videos. The architecture is as follows:
 ![multi-video-tracking.png](./images/multi-video-tracking.png)
 
-https://github.com/oele-isis-vanderbilt/MMLAPipeline-Resources/assets/11476842/cad6ef71-8702-45aa-ac36-d5ebb3d418f6
+
+
+https://github.com/oele-isis-vanderbilt/MMLAPipeline-Resources/assets/11476842/bf6a2f6c-612c-4497-9d08-d42507219fef
+
+
 
 
 ## Useful Links
