@@ -9,6 +9,12 @@ Demos, posters and other resources related to the [`ChimeraPy`](https://github.c
 
 The architecture is as follows:
  ![multicamera.png](./images/multicamera.png)
+ 
+ 
+
+https://github.com/oele-isis-vanderbilt/MMLAPipeline-Resources/assets/11476842/d9c4ff67-d4a3-495e-b141-59c5b2e41d00
+
+
 
 2. [gaze-camera-screen.json](./demos/gaze-camera-screen.json): [`ChimeraPyOrchestrator`](https://github.com/oele-isis-vanderbilt/ChimeraPyOrchestrator.git) configuration for capturing screen and webcam images on a remote machine, feeding it to a gaze detection network ([L2CS-Net](https://github.com/Ahmednull/L2CS-Net)) and displaying results in a local machine. The architecture is as follows:
 
