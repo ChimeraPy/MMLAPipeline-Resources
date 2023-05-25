@@ -14,6 +14,11 @@ The architecture is as follows:
 
 ![gaze-detection.png](./images/gaze-detection.png)
 
+
+https://github.com/oele-isis-vanderbilt/MMLAPipeline-Resources/assets/11476842/416fe124-72c7-4ddb-bb5e-cd5052b488c0
+
+
+
 3. [multi-video-tracking.json](./demos/multi-video-tracking.json): [`ChimeraPyOrchestrator`](https://github.com/oele-isis-vanderbilt/ChimeraPyOrchestrator.git) configuration for tracking multiple objects in multiple videos. The architecture is as follows:
 ![multi-video-tracking.png](./images/multi-video-tracking.png)
 
