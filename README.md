@@ -28,6 +28,8 @@ https://github.com/oele-isis-vanderbilt/MMLAPipeline-Resources/assets/11476842/4
 3. [multi-video-tracking.json](./demos/multi-video-tracking.json): [`ChimeraPyOrchestrator`](https://github.com/oele-isis-vanderbilt/ChimeraPyOrchestrator.git) configuration for tracking multiple objects in multiple videos. The architecture is as follows:
 ![multi-video-tracking.png](./images/multi-video-tracking.png)
 
+https://github.com/oele-isis-vanderbilt/MMLAPipeline-Resources/assets/11476842/cad6ef71-8702-45aa-ac36-d5ebb3d418f6
+
 
 ## Useful Links
 - [`ChimeraPy`](https://github.com/oele-isis-vanderbilt/ChimeraPy/tree/EngageAIVisit2023): Distributed computing framework for Multimodal data written in Python
