@@ -44,6 +44,12 @@ https://github.com/oele-isis-vanderbilt/MMLAPipeline-Resources/assets/11476842/b
 ![embodied-learning.png](./images/embodied-learning.png)
 
 
+
+https://github.com/oele-isis-vanderbilt/MMLAPipeline-Resources/assets/11476842/09755b1c-dd1c-469b-b305-aad6511a47a5
+
+
+
+
 ## Useful Links
 - [`ChimeraPy`](https://github.com/oele-isis-vanderbilt/ChimeraPy/tree/EngageAIVisit2023): Distributed computing framework for Multimodal data written in Python
 
