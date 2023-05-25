@@ -10,9 +10,13 @@
 The architecture is as follows:
  ![multicamera.png](./images/multicamera.png)
 
- 2. [gaze-camera-screen.json](./demos/gaze-camera-screen.json): [`ChimeraPyOrchestrator`](https://github.com/oele-isis-vanderbilt/ChimeraPyOrchestrator.git) configuration for capturing screen and webcam images on a remote machine, feeding it to a gaze detection network ([L2CS-Net](https://github.com/Ahmednull/L2CS-Net)) and displaying results in a local machine. The architecture is as follows:
+2. [gaze-camera-screen.json](./demos/gaze-camera-screen.json): [`ChimeraPyOrchestrator`](https://github.com/oele-isis-vanderbilt/ChimeraPyOrchestrator.git) configuration for capturing screen and webcam images on a remote machine, feeding it to a gaze detection network ([L2CS-Net](https://github.com/Ahmednull/L2CS-Net)) and displaying results in a local machine. The architecture is as follows:
 
 ![gaze-detection.png](./images/gaze-detection.png)
+
+3. [multi-video-tracking.json](./demos/multi-video-tracking.json): [`ChimeraPyOrchestrator`](https://github.com/oele-isis-vanderbilt/ChimeraPyOrchestrator.git) configuration for tracking multiple objects in multiple videos. The architecture is as follows:
+![multi-video-tracking.png](./images/multi-video-tracking.png)
+
 
 ## Useful Links
 - [`ChimeraPy`](https://github.com/oele-isis-vanderbilt/ChimeraPy): Distributed computing framework for Multimodal data written in Python
