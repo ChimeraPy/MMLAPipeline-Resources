@@ -90,7 +90,7 @@
       "registry_name": "MMLAPIPE_Video",
       "name": "linux-cam-2",
       "kwargs": {
-        "video_src": 3,
+        "video_src": 2,
         "width": 640,
         "height": null,
         "frame_rate": 30,
