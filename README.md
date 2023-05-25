@@ -40,6 +40,7 @@ https://github.com/oele-isis-vanderbilt/MMLAPipeline-Resources/assets/11476842/b
 
 ### Embodied Learning
 [embodied-learning.json](./demo-configs/embodied-learning.json) is the [`ChimeraPyOrchestrator`](https://github.com/oele-isis-vanderbilt/ChimeraPyOrchestrator.git) configuration for embodied learning. The architecture is as follows:
+
 ![embodied-learning.png](./images/embodied-learning.png)
 
 
